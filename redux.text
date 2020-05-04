@@ -1,0 +1,16 @@
+ ******** Basics of Redux ********
+
+- what is Redux 
+
+- redux is a state management library 
+
+- state is single big object where all the data for you application lives 
+
+- redux is indipendent library ...
+
+- mostly used with React , can be used with other framworks
+like Angular , Amber ... 
+
+- for the simplicity - to understand the basics of 'Redux'
+we are going to do just 'Vanilla Redux' 
+  
